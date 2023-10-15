@@ -1,0 +1,10 @@
+(librepcb_package_category fff65c58-04df-484d-bc88-d9aa56be6fb6
+ (name "PowerSO")
+ (description "")
+ (keywords "")
+ (author "Anshal Jain")
+ (version "0.1")
+ (created 2023-10-06T01:15:04Z)
+ (deprecated false)
+ (parent a074fabf-4912-4c29-bc6b-451bf43c2193)
+)

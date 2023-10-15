@@ -1,0 +1,10 @@
+(librepcb_package_category 641a9dbe-01f1-451f-977c-280c0dd7880d
+ (name "2.54mm DIPs")
+ (description "Dupont Breakout Boards for ICs")
+ (keywords "")
+ (author "Anshal Jain")
+ (version "0.1")
+ (created 2023-10-09T05:02:38Z)
+ (deprecated false)
+ (parent edc63ee6-ea87-495d-a6b9-54536fe8b1f9)
+)

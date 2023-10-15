@@ -1,0 +1,11 @@
+(librepcb_library a55e6aa0-e104-4538-889d-6a9c261de551
+ (name "PkNess Custom Library")
+ (description "My Custom Library")
+ (keywords "")
+ (author "Anshal Jain")
+ (version "0.1")
+ (created 2023-10-05T23:47:30Z)
+ (deprecated false)
+ (url "")
+ (manufacturer "")
+)

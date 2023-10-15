@@ -1,0 +1,10 @@
+(librepcb_symbol 3cd94cb6-c66d-4b60-80ea-8a12c888e145
+ (name "DIP Switch SPST 3")
+ (description "DIP Switch 3-sets")
+ (keywords "")
+ (author "Anshal Jain")
+ (version "0.1")
+ (created 2023-10-09T08:29:10Z)
+ (deprecated false)
+ (generated_by "")
+)

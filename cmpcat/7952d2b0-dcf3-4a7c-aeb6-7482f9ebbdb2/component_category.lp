@@ -1,0 +1,10 @@
+(librepcb_component_category 7952d2b0-dcf3-4a7c-aeb6-7482f9ebbdb2
+ (name "Motor Drivers")
+ (description "")
+ (keywords "")
+ (author "Anshal Jain")
+ (version "0.1")
+ (created 2023-10-09T05:25:34Z)
+ (deprecated false)
+ (parent none)
+)
